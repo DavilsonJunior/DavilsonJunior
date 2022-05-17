@@ -47,15 +47,18 @@ So, I love technology, coffee and applying knowledge to solve problems, **create
 
 ##
 
-<div>
-  <a href="https://github.com/DavilsonJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavilsonJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavilsonJunior&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p>
+<a href="https://github.com/DavilsonJunior">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavilsonJunior&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavilsonJunior&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
   
 ##
 
 **Follow me on my social media:**
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/davilson_junior/)](https://www.instagram.com/davilson_junior/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davilson-paulino-da-cunha-junior-23029315a/)](https://www.linkedin.com/in/davilson-paulino-da-cunha-junior-23029315a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davilson-paulino-da-cunha-junior-23029315a/)](https://www.linkedin.com/in/davilson-paulino-cunha-da-junior-23029315a/) 
