@@ -1,6 +1,6 @@
 ### Hey there
 
-**I'm Davilson Paulino da Cunha Junior 👨‍🚀**. I'm a Front-end developer, but also I have experience
+**I'm Davilson Paulino da Cunha Junior 👨‍🚀**. I'm a Full-stack developer, but also I have experience
 with Back-end e Mobile
 
 Currently, I work with **React Native** in a personal project.:iphone:
