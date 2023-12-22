@@ -1,9 +1,6 @@
 ### Hey there
 
-**I'm Davilson Paulino da Cunha Junior 👨‍🚀**. I'm a Full-stack developer, but also I have experience
-with Back-end e Mobile
-
-Currently, I work with **React Native** in a personal project.:iphone:
+**I'm Davilson Paulino da Cunha Junior 👨‍🚀**. Passionate Software Engineer with a love for technology, shaping the future through lines of code. Challenges are opportunities for innovation in my universe. 💻✨ 
 
 I have knowledge in this technologies: 
 
@@ -41,7 +38,7 @@ I have knowledge in this technologies:
 
 :mortar_board: I am graduated in Computer Engineer. I'm adaptive, flexible and learn something new with facility.
 
-I also love **UX Design** :heart_eyes:. I like to create beautiful interfaces to provide the user with a great experience.
+A technology enthusiast and Software Engineer, shaping the future through excellent systems, from microservices to the cloud. My passion lies in developing products that positively impact people's lives. I transform ideas into meaningful solutions. 💻🚀 
 
 So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
 
